@@ -22,4 +22,6 @@ Teneo Absence Tracker is a project developed as part of a testing task for the c
 7. Run the application with `php artisan serve` for the backend and `npm run dev` for the frontend.
 
 ##ER Diagram
+
+
 ![ER Diagram](./erdiagram.png)
